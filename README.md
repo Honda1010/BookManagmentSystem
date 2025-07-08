@@ -31,7 +31,7 @@ The system is designed with solid OOP principles using abstract classes and poly
 Below are some sample outputs from the terminal when running the system via `QuantumBookstoreFullTest`.
 
 ### Main Output
-![MainOutput](Screenshots/MainOutput.png)
+![MainOutput](ScreenShots/MainOutput.pn)
 
 ---
 
